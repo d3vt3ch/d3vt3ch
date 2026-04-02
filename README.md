@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Financial+Planner+%7C+Team+Builder;Learning+Python+%26+Tech;Building+People+%26+Systems;Growing+Every+Day&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=d3vt3ch&color=blue" />
+</p>
+
 🚀 Financial Planner | Team Builder | Tech Learner  
 📍 Malaysia  
 
@@ -13,7 +17,7 @@
 
 I help people plan their financial future and build strong performing teams.
 
-Now, I’m expanding into **technology** to stay relevant, increase leverage, and create more impact.
+Now, I’m expanding into **technology** to increase leverage, improve efficiency, and create scalable impact.
 
 I believe:
 > Growth happens when you step into discomfort.
@@ -40,22 +44,43 @@ I believe:
 
 ## 🎯 Recruiter / Collaboration Hook
 
-I’m actively building myself at the intersection of:
+I’m building at the intersection of:
 
-- 💼 Finance (Professional Planning & Risk Management)  
+- 💼 Finance (Planning & Risk Management)  
 - 👥 Leadership (Team Building & Talent Development)  
 - 💻 Tech (Python, Automation, Systems Thinking)  
 
-If you're looking for someone who:
-- Can **build people AND systems**
-- Has **real-world leadership experience**
-- Is **hungry to grow and adapt**
+I bring:
+- Real-world leadership experience  
+- Strong execution discipline  
+- Growth mindset with technical curiosity  
 
-Let’s connect.
+If you're looking for someone who can **build people AND systems**, let’s connect.
 
 ---
 
-## 📊 Featured Project
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=d3vt3ch&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=d3vt3ch" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vt3ch&layout=compact" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3vt3ch/d3vt3ch/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📂 Featured Project
 
 ### 🐍 Python Bootcamp Journey  
 👉 https://github.com/d3vt3ch/pybootcamp
@@ -74,33 +99,21 @@ Let’s connect.
 
 ---
 
-## 📈 GitHub Stats
-
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3vt3ch&show_icons=true)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/d3vt3ch/d3vt3ch/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## ✨ Personal Principle
 
 > "Consistency builds confidence. Confidence builds results."
 
 ---
 
-## 📱 Connect With Me
-
-- GitHub: https://github.com/d3vt3ch
-
----
-
 ## 🚀 My Direction
 
 - Combine **Finance + Tech**
-- Build scalable systems & automation
-- Grow leaders and high-performing teams
-- Inspire others to level up
+- Build scalable systems & automation  
+- Grow leaders and high-performing teams  
+- Inspire others to level up  
+
+---
+
+## 📱 Connect With Me
+
+- GitHub: https://github.com/d3vt3ch
