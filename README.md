@@ -62,15 +62,15 @@ If you're looking for someone who can **build people AND systems**, let’s conn
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3vt3ch&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d3vt3ch&show_icons=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=d3vt3ch&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=d3vt3ch&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vt3ch&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vt3ch&layout=compact&cache_seconds=86400" />
 </p>
 ---
 
